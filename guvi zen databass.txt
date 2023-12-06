@@ -103,4 +103,5 @@ INSERT INTO   queries(userid,querybody,mentorid) VALUES(3,"query about html",1),
                                                                                  
 
 /*create by ajith*/
+/*create by ajith*/
 
